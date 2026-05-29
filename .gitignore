@@ -1,0 +1,4 @@
+progress.txt
+*.pdf
+*.xlsx
+__pycache__/
